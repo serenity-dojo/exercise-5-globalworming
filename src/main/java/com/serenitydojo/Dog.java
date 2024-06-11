@@ -1,6 +1,6 @@
 package com.serenitydojo;
 
-public class Dog {
+public class Dog  extends Pet {
     private String name;
     private String favoriteToy;
     private int age;
